@@ -1,0 +1,4 @@
+bin/
+*.png
+results.json
+instructions.pdf
