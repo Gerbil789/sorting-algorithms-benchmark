@@ -1,0 +1,758 @@
+[
+  {
+    "size": 100,
+    "dataType": "Integer",
+    "inputType": "Random (Unpredictable)",
+    "algorithm": "BubbleSortPassPerItem",
+    "timeMs": 0.0270
+  },
+  {
+    "size": 100,
+    "dataType": "Integer",
+    "inputType": "Random (Unpredictable)",
+    "algorithm": "BubbleSortUntilNoChange",
+    "timeMs": 0.0371
+  },
+  {
+    "size": 100,
+    "dataType": "Integer",
+    "inputType": "Random (Unpredictable)",
+    "algorithm": "BubbleSortWhileNeeded",
+    "timeMs": 0.0239
+  },
+  {
+    "size": 100,
+    "dataType": "Integer",
+    "inputType": "Already Sorted (Best Case)",
+    "algorithm": "BubbleSortPassPerItem",
+    "timeMs": 0.0167
+  },
+  {
+    "size": 100,
+    "dataType": "Integer",
+    "inputType": "Already Sorted (Best Case)",
+    "algorithm": "BubbleSortUntilNoChange",
+    "timeMs": 0.0005
+  },
+  {
+    "size": 100,
+    "dataType": "Integer",
+    "inputType": "Already Sorted (Best Case)",
+    "algorithm": "BubbleSortWhileNeeded",
+    "timeMs": 0.0003
+  },
+  {
+    "size": 100,
+    "dataType": "Integer",
+    "inputType": "Reverse Sorted (Worst Case)",
+    "algorithm": "BubbleSortPassPerItem",
+    "timeMs": 0.0359
+  },
+  {
+    "size": 100,
+    "dataType": "Integer",
+    "inputType": "Reverse Sorted (Worst Case)",
+    "algorithm": "BubbleSortUntilNoChange",
+    "timeMs": 0.0430
+  },
+  {
+    "size": 100,
+    "dataType": "Integer",
+    "inputType": "Reverse Sorted (Worst Case)",
+    "algorithm": "BubbleSortWhileNeeded",
+    "timeMs": 0.0270
+  },
+  {
+    "size": 100,
+    "dataType": "Integer",
+    "inputType": "Almost Sorted (Few Out of Place)",
+    "algorithm": "BubbleSortPassPerItem",
+    "timeMs": 0.0182
+  },
+  {
+    "size": 100,
+    "dataType": "Integer",
+    "inputType": "Almost Sorted (Few Out of Place)",
+    "algorithm": "BubbleSortUntilNoChange",
+    "timeMs": 0.0302
+  },
+  {
+    "size": 100,
+    "dataType": "Integer",
+    "inputType": "Almost Sorted (Few Out of Place)",
+    "algorithm": "BubbleSortWhileNeeded",
+    "timeMs": 0.0119
+  },
+  {
+    "size": 100,
+    "dataType": "String",
+    "inputType": "Random (Unpredictable)",
+    "algorithm": "BubbleSortPassPerItem",
+    "timeMs": 0.7274
+  },
+  {
+    "size": 100,
+    "dataType": "String",
+    "inputType": "Random (Unpredictable)",
+    "algorithm": "BubbleSortUntilNoChange",
+    "timeMs": 0.5426
+  },
+  {
+    "size": 100,
+    "dataType": "String",
+    "inputType": "Random (Unpredictable)",
+    "algorithm": "BubbleSortWhileNeeded",
+    "timeMs": 0.3095
+  },
+  {
+    "size": 100,
+    "dataType": "String",
+    "inputType": "Already Sorted (Best Case)",
+    "algorithm": "BubbleSortPassPerItem",
+    "timeMs": 0.2527
+  },
+  {
+    "size": 100,
+    "dataType": "String",
+    "inputType": "Already Sorted (Best Case)",
+    "algorithm": "BubbleSortUntilNoChange",
+    "timeMs": 0.0078
+  },
+  {
+    "size": 100,
+    "dataType": "String",
+    "inputType": "Already Sorted (Best Case)",
+    "algorithm": "BubbleSortWhileNeeded",
+    "timeMs": 0.0065
+  },
+  {
+    "size": 100,
+    "dataType": "String",
+    "inputType": "Reverse Sorted (Worst Case)",
+    "algorithm": "BubbleSortPassPerItem",
+    "timeMs": 0.2687
+  },
+  {
+    "size": 100,
+    "dataType": "String",
+    "inputType": "Reverse Sorted (Worst Case)",
+    "algorithm": "BubbleSortUntilNoChange",
+    "timeMs": 0.1564
+  },
+  {
+    "size": 100,
+    "dataType": "String",
+    "inputType": "Reverse Sorted (Worst Case)",
+    "algorithm": "BubbleSortWhileNeeded",
+    "timeMs": 0.3714
+  },
+  {
+    "size": 100,
+    "dataType": "String",
+    "inputType": "Almost Sorted (Few Out of Place)",
+    "algorithm": "BubbleSortPassPerItem",
+    "timeMs": 0.1358
+  },
+  {
+    "size": 100,
+    "dataType": "String",
+    "inputType": "Almost Sorted (Few Out of Place)",
+    "algorithm": "BubbleSortUntilNoChange",
+    "timeMs": 0.0957
+  },
+  {
+    "size": 100,
+    "dataType": "String",
+    "inputType": "Almost Sorted (Few Out of Place)",
+    "algorithm": "BubbleSortWhileNeeded",
+    "timeMs": 0.0948
+  },
+  {
+    "size": 100,
+    "dataType": "Complex Entity",
+    "inputType": "Random (Unpredictable)",
+    "algorithm": "BubbleSortPassPerItem",
+    "timeMs": 14.1906
+  },
+  {
+    "size": 100,
+    "dataType": "Complex Entity",
+    "inputType": "Random (Unpredictable)",
+    "algorithm": "BubbleSortUntilNoChange",
+    "timeMs": 3.6781
+  },
+  {
+    "size": 100,
+    "dataType": "Complex Entity",
+    "inputType": "Random (Unpredictable)",
+    "algorithm": "BubbleSortWhileNeeded",
+    "timeMs": 2.0086
+  },
+  {
+    "size": 100,
+    "dataType": "Complex Entity",
+    "inputType": "Already Sorted (Best Case)",
+    "algorithm": "BubbleSortPassPerItem",
+    "timeMs": 6.0048
+  },
+  {
+    "size": 100,
+    "dataType": "Complex Entity",
+    "inputType": "Already Sorted (Best Case)",
+    "algorithm": "BubbleSortUntilNoChange",
+    "timeMs": 0.0206
+  },
+  {
+    "size": 100,
+    "dataType": "Complex Entity",
+    "inputType": "Already Sorted (Best Case)",
+    "algorithm": "BubbleSortWhileNeeded",
+    "timeMs": 0.0194
+  },
+  {
+    "size": 100,
+    "dataType": "Complex Entity",
+    "inputType": "Reverse Sorted (Worst Case)",
+    "algorithm": "BubbleSortPassPerItem",
+    "timeMs": 1.1379
+  },
+  {
+    "size": 100,
+    "dataType": "Complex Entity",
+    "inputType": "Reverse Sorted (Worst Case)",
+    "algorithm": "BubbleSortUntilNoChange",
+    "timeMs": 1.9528
+  },
+  {
+    "size": 100,
+    "dataType": "Complex Entity",
+    "inputType": "Reverse Sorted (Worst Case)",
+    "algorithm": "BubbleSortWhileNeeded",
+    "timeMs": 0.5901
+  },
+  {
+    "size": 100,
+    "dataType": "Complex Entity",
+    "inputType": "Almost Sorted (Few Out of Place)",
+    "algorithm": "BubbleSortPassPerItem",
+    "timeMs": 1.1306
+  },
+  {
+    "size": 100,
+    "dataType": "Complex Entity",
+    "inputType": "Almost Sorted (Few Out of Place)",
+    "algorithm": "BubbleSortUntilNoChange",
+    "timeMs": 1.0962
+  },
+  {
+    "size": 100,
+    "dataType": "Complex Entity",
+    "inputType": "Almost Sorted (Few Out of Place)",
+    "algorithm": "BubbleSortWhileNeeded",
+    "timeMs": 0.4340
+  },
+  {
+    "size": 1000,
+    "dataType": "Integer",
+    "inputType": "Random (Unpredictable)",
+    "algorithm": "BubbleSortPassPerItem",
+    "timeMs": 4.5949
+  },
+  {
+    "size": 1000,
+    "dataType": "Integer",
+    "inputType": "Random (Unpredictable)",
+    "algorithm": "BubbleSortUntilNoChange",
+    "timeMs": 5.3763
+  },
+  {
+    "size": 1000,
+    "dataType": "Integer",
+    "inputType": "Random (Unpredictable)",
+    "algorithm": "BubbleSortWhileNeeded",
+    "timeMs": 3.2008
+  },
+  {
+    "size": 1000,
+    "dataType": "Integer",
+    "inputType": "Already Sorted (Best Case)",
+    "algorithm": "BubbleSortPassPerItem",
+    "timeMs": 3.2788
+  },
+  {
+    "size": 1000,
+    "dataType": "Integer",
+    "inputType": "Already Sorted (Best Case)",
+    "algorithm": "BubbleSortUntilNoChange",
+    "timeMs": 0.0060
+  },
+  {
+    "size": 1000,
+    "dataType": "Integer",
+    "inputType": "Already Sorted (Best Case)",
+    "algorithm": "BubbleSortWhileNeeded",
+    "timeMs": 0.0041
+  },
+  {
+    "size": 1000,
+    "dataType": "Integer",
+    "inputType": "Reverse Sorted (Worst Case)",
+    "algorithm": "BubbleSortPassPerItem",
+    "timeMs": 3.8628
+  },
+  {
+    "size": 1000,
+    "dataType": "Integer",
+    "inputType": "Reverse Sorted (Worst Case)",
+    "algorithm": "BubbleSortUntilNoChange",
+    "timeMs": 5.0339
+  },
+  {
+    "size": 1000,
+    "dataType": "Integer",
+    "inputType": "Reverse Sorted (Worst Case)",
+    "algorithm": "BubbleSortWhileNeeded",
+    "timeMs": 3.1327
+  },
+  {
+    "size": 1000,
+    "dataType": "Integer",
+    "inputType": "Almost Sorted (Few Out of Place)",
+    "algorithm": "BubbleSortPassPerItem",
+    "timeMs": 3.0433
+  },
+  {
+    "size": 1000,
+    "dataType": "Integer",
+    "inputType": "Almost Sorted (Few Out of Place)",
+    "algorithm": "BubbleSortUntilNoChange",
+    "timeMs": 3.3490
+  },
+  {
+    "size": 1000,
+    "dataType": "Integer",
+    "inputType": "Almost Sorted (Few Out of Place)",
+    "algorithm": "BubbleSortWhileNeeded",
+    "timeMs": 2.0606
+  },
+  {
+    "size": 1000,
+    "dataType": "String",
+    "inputType": "Random (Unpredictable)",
+    "algorithm": "BubbleSortPassPerItem",
+    "timeMs": 8.4144
+  },
+  {
+    "size": 1000,
+    "dataType": "String",
+    "inputType": "Random (Unpredictable)",
+    "algorithm": "BubbleSortUntilNoChange",
+    "timeMs": 9.8751
+  },
+  {
+    "size": 1000,
+    "dataType": "String",
+    "inputType": "Random (Unpredictable)",
+    "algorithm": "BubbleSortWhileNeeded",
+    "timeMs": 5.7513
+  },
+  {
+    "size": 1000,
+    "dataType": "String",
+    "inputType": "Already Sorted (Best Case)",
+    "algorithm": "BubbleSortPassPerItem",
+    "timeMs": 9.4367
+  },
+  {
+    "size": 1000,
+    "dataType": "String",
+    "inputType": "Already Sorted (Best Case)",
+    "algorithm": "BubbleSortUntilNoChange",
+    "timeMs": 0.0153
+  },
+  {
+    "size": 1000,
+    "dataType": "String",
+    "inputType": "Already Sorted (Best Case)",
+    "algorithm": "BubbleSortWhileNeeded",
+    "timeMs": 0.0117
+  },
+  {
+    "size": 1000,
+    "dataType": "String",
+    "inputType": "Reverse Sorted (Worst Case)",
+    "algorithm": "BubbleSortPassPerItem",
+    "timeMs": 10.2481
+  },
+  {
+    "size": 1000,
+    "dataType": "String",
+    "inputType": "Reverse Sorted (Worst Case)",
+    "algorithm": "BubbleSortUntilNoChange",
+    "timeMs": 11.3307
+  },
+  {
+    "size": 1000,
+    "dataType": "String",
+    "inputType": "Reverse Sorted (Worst Case)",
+    "algorithm": "BubbleSortWhileNeeded",
+    "timeMs": 5.5076
+  },
+  {
+    "size": 1000,
+    "dataType": "String",
+    "inputType": "Almost Sorted (Few Out of Place)",
+    "algorithm": "BubbleSortPassPerItem",
+    "timeMs": 10.0934
+  },
+  {
+    "size": 1000,
+    "dataType": "String",
+    "inputType": "Almost Sorted (Few Out of Place)",
+    "algorithm": "BubbleSortUntilNoChange",
+    "timeMs": 8.9878
+  },
+  {
+    "size": 1000,
+    "dataType": "String",
+    "inputType": "Almost Sorted (Few Out of Place)",
+    "algorithm": "BubbleSortWhileNeeded",
+    "timeMs": 5.6722
+  },
+  {
+    "size": 1000,
+    "dataType": "Complex Entity",
+    "inputType": "Random (Unpredictable)",
+    "algorithm": "BubbleSortPassPerItem",
+    "timeMs": 158.2576
+  },
+  {
+    "size": 1000,
+    "dataType": "Complex Entity",
+    "inputType": "Random (Unpredictable)",
+    "algorithm": "BubbleSortUntilNoChange",
+    "timeMs": 143.5431
+  },
+  {
+    "size": 1000,
+    "dataType": "Complex Entity",
+    "inputType": "Random (Unpredictable)",
+    "algorithm": "BubbleSortWhileNeeded",
+    "timeMs": 77.1581
+  },
+  {
+    "size": 1000,
+    "dataType": "Complex Entity",
+    "inputType": "Already Sorted (Best Case)",
+    "algorithm": "BubbleSortPassPerItem",
+    "timeMs": 110.9626
+  },
+  {
+    "size": 1000,
+    "dataType": "Complex Entity",
+    "inputType": "Already Sorted (Best Case)",
+    "algorithm": "BubbleSortUntilNoChange",
+    "timeMs": 0.1175
+  },
+  {
+    "size": 1000,
+    "dataType": "Complex Entity",
+    "inputType": "Already Sorted (Best Case)",
+    "algorithm": "BubbleSortWhileNeeded",
+    "timeMs": 0.1066
+  },
+  {
+    "size": 1000,
+    "dataType": "Complex Entity",
+    "inputType": "Reverse Sorted (Worst Case)",
+    "algorithm": "BubbleSortPassPerItem",
+    "timeMs": 107.6830
+  },
+  {
+    "size": 1000,
+    "dataType": "Complex Entity",
+    "inputType": "Reverse Sorted (Worst Case)",
+    "algorithm": "BubbleSortUntilNoChange",
+    "timeMs": 114.2359
+  },
+  {
+    "size": 1000,
+    "dataType": "Complex Entity",
+    "inputType": "Reverse Sorted (Worst Case)",
+    "algorithm": "BubbleSortWhileNeeded",
+    "timeMs": 59.5437
+  },
+  {
+    "size": 1000,
+    "dataType": "Complex Entity",
+    "inputType": "Almost Sorted (Few Out of Place)",
+    "algorithm": "BubbleSortPassPerItem",
+    "timeMs": 109.4268
+  },
+  {
+    "size": 1000,
+    "dataType": "Complex Entity",
+    "inputType": "Almost Sorted (Few Out of Place)",
+    "algorithm": "BubbleSortUntilNoChange",
+    "timeMs": 79.4515
+  },
+  {
+    "size": 1000,
+    "dataType": "Complex Entity",
+    "inputType": "Almost Sorted (Few Out of Place)",
+    "algorithm": "BubbleSortWhileNeeded",
+    "timeMs": 48.0023
+  },
+  {
+    "size": 10000,
+    "dataType": "Integer",
+    "inputType": "Random (Unpredictable)",
+    "algorithm": "BubbleSortPassPerItem",
+    "timeMs": 493.0717
+  },
+  {
+    "size": 10000,
+    "dataType": "Integer",
+    "inputType": "Random (Unpredictable)",
+    "algorithm": "BubbleSortUntilNoChange",
+    "timeMs": 595.1410
+  },
+  {
+    "size": 10000,
+    "dataType": "Integer",
+    "inputType": "Random (Unpredictable)",
+    "algorithm": "BubbleSortWhileNeeded",
+    "timeMs": 351.5388
+  },
+  {
+    "size": 10000,
+    "dataType": "Integer",
+    "inputType": "Already Sorted (Best Case)",
+    "algorithm": "BubbleSortPassPerItem",
+    "timeMs": 286.8584
+  },
+  {
+    "size": 10000,
+    "dataType": "Integer",
+    "inputType": "Already Sorted (Best Case)",
+    "algorithm": "BubbleSortUntilNoChange",
+    "timeMs": 0.0399
+  },
+  {
+    "size": 10000,
+    "dataType": "Integer",
+    "inputType": "Already Sorted (Best Case)",
+    "algorithm": "BubbleSortWhileNeeded",
+    "timeMs": 0.0577
+  },
+  {
+    "size": 10000,
+    "dataType": "Integer",
+    "inputType": "Reverse Sorted (Worst Case)",
+    "algorithm": "BubbleSortPassPerItem",
+    "timeMs": 404.2192
+  },
+  {
+    "size": 10000,
+    "dataType": "Integer",
+    "inputType": "Reverse Sorted (Worst Case)",
+    "algorithm": "BubbleSortUntilNoChange",
+    "timeMs": 518.6465
+  },
+  {
+    "size": 10000,
+    "dataType": "Integer",
+    "inputType": "Reverse Sorted (Worst Case)",
+    "algorithm": "BubbleSortWhileNeeded",
+    "timeMs": 309.3838
+  },
+  {
+    "size": 10000,
+    "dataType": "Integer",
+    "inputType": "Almost Sorted (Few Out of Place)",
+    "algorithm": "BubbleSortPassPerItem",
+    "timeMs": 308.0660
+  },
+  {
+    "size": 10000,
+    "dataType": "Integer",
+    "inputType": "Almost Sorted (Few Out of Place)",
+    "algorithm": "BubbleSortUntilNoChange",
+    "timeMs": 422.1463
+  },
+  {
+    "size": 10000,
+    "dataType": "Integer",
+    "inputType": "Almost Sorted (Few Out of Place)",
+    "algorithm": "BubbleSortWhileNeeded",
+    "timeMs": 231.0997
+  },
+  {
+    "size": 10000,
+    "dataType": "String",
+    "inputType": "Random (Unpredictable)",
+    "algorithm": "BubbleSortPassPerItem",
+    "timeMs": 1058.0887
+  },
+  {
+    "size": 10000,
+    "dataType": "String",
+    "inputType": "Random (Unpredictable)",
+    "algorithm": "BubbleSortUntilNoChange",
+    "timeMs": 1148.7982
+  },
+  {
+    "size": 10000,
+    "dataType": "String",
+    "inputType": "Random (Unpredictable)",
+    "algorithm": "BubbleSortWhileNeeded",
+    "timeMs": 592.1965
+  },
+  {
+    "size": 10000,
+    "dataType": "String",
+    "inputType": "Already Sorted (Best Case)",
+    "algorithm": "BubbleSortPassPerItem",
+    "timeMs": 1100.4481
+  },
+  {
+    "size": 10000,
+    "dataType": "String",
+    "inputType": "Already Sorted (Best Case)",
+    "algorithm": "BubbleSortUntilNoChange",
+    "timeMs": 0.1330
+  },
+  {
+    "size": 10000,
+    "dataType": "String",
+    "inputType": "Already Sorted (Best Case)",
+    "algorithm": "BubbleSortWhileNeeded",
+    "timeMs": 0.1315
+  },
+  {
+    "size": 10000,
+    "dataType": "String",
+    "inputType": "Reverse Sorted (Worst Case)",
+    "algorithm": "BubbleSortPassPerItem",
+    "timeMs": 1132.4673
+  },
+  {
+    "size": 10000,
+    "dataType": "String",
+    "inputType": "Reverse Sorted (Worst Case)",
+    "algorithm": "BubbleSortUntilNoChange",
+    "timeMs": 1269.6581
+  },
+  {
+    "size": 10000,
+    "dataType": "String",
+    "inputType": "Reverse Sorted (Worst Case)",
+    "algorithm": "BubbleSortWhileNeeded",
+    "timeMs": 580.9433
+  },
+  {
+    "size": 10000,
+    "dataType": "String",
+    "inputType": "Almost Sorted (Few Out of Place)",
+    "algorithm": "BubbleSortPassPerItem",
+    "timeMs": 1087.8113
+  },
+  {
+    "size": 10000,
+    "dataType": "String",
+    "inputType": "Almost Sorted (Few Out of Place)",
+    "algorithm": "BubbleSortUntilNoChange",
+    "timeMs": 1123.8969
+  },
+  {
+    "size": 10000,
+    "dataType": "String",
+    "inputType": "Almost Sorted (Few Out of Place)",
+    "algorithm": "BubbleSortWhileNeeded",
+    "timeMs": 615.3338
+  },
+  {
+    "size": 10000,
+    "dataType": "Complex Entity",
+    "inputType": "Random (Unpredictable)",
+    "algorithm": "BubbleSortPassPerItem",
+    "timeMs": 17189.6172
+  },
+  {
+    "size": 10000,
+    "dataType": "Complex Entity",
+    "inputType": "Random (Unpredictable)",
+    "algorithm": "BubbleSortUntilNoChange",
+    "timeMs": 17308.0677
+  },
+  {
+    "size": 10000,
+    "dataType": "Complex Entity",
+    "inputType": "Random (Unpredictable)",
+    "algorithm": "BubbleSortWhileNeeded",
+    "timeMs": 8535.6187
+  },
+  {
+    "size": 10000,
+    "dataType": "Complex Entity",
+    "inputType": "Already Sorted (Best Case)",
+    "algorithm": "BubbleSortPassPerItem",
+    "timeMs": 13068.0013
+  },
+  {
+    "size": 10000,
+    "dataType": "Complex Entity",
+    "inputType": "Already Sorted (Best Case)",
+    "algorithm": "BubbleSortUntilNoChange",
+    "timeMs": 1.5797
+  },
+  {
+    "size": 10000,
+    "dataType": "Complex Entity",
+    "inputType": "Already Sorted (Best Case)",
+    "algorithm": "BubbleSortWhileNeeded",
+    "timeMs": 1.4879
+  },
+  {
+    "size": 10000,
+    "dataType": "Complex Entity",
+    "inputType": "Reverse Sorted (Worst Case)",
+    "algorithm": "BubbleSortPassPerItem",
+    "timeMs": 11910.1535
+  },
+  {
+    "size": 10000,
+    "dataType": "Complex Entity",
+    "inputType": "Reverse Sorted (Worst Case)",
+    "algorithm": "BubbleSortUntilNoChange",
+    "timeMs": 12133.6099
+  },
+  {
+    "size": 10000,
+    "dataType": "Complex Entity",
+    "inputType": "Reverse Sorted (Worst Case)",
+    "algorithm": "BubbleSortWhileNeeded",
+    "timeMs": 6059.7019
+  },
+  {
+    "size": 10000,
+    "dataType": "Complex Entity",
+    "inputType": "Almost Sorted (Few Out of Place)",
+    "algorithm": "BubbleSortPassPerItem",
+    "timeMs": 11448.4289
+  },
+  {
+    "size": 10000,
+    "dataType": "Complex Entity",
+    "inputType": "Almost Sorted (Few Out of Place)",
+    "algorithm": "BubbleSortUntilNoChange",
+    "timeMs": 10902.0073
+  },
+  {
+    "size": 10000,
+    "dataType": "Complex Entity",
+    "inputType": "Almost Sorted (Few Out of Place)",
+    "algorithm": "BubbleSortWhileNeeded",
+    "timeMs": 6004.2041
+  }
+]

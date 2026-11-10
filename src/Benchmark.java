@@ -3,7 +3,7 @@ import java.util.Locale;
 
 public class Benchmark {
 
-    private static final int[] ARRAY_SIZES = {100, 1000};
+    private static final int[] ARRAY_SIZES = {100, 1000, 10000};
     private static final int WARMUP_RUNS = 3;
     private static final int MEASUREMENT_RUNS = 10;
     

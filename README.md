@@ -2,7 +2,7 @@
 
 Effiecny comparison comparison for 3 bubble style sorting algortihms in Java
 
-- Program runs benchmark and write results into ```results.json``` file, that can be used to generate images using python script
+- Program runs benchmark and write results into ```results.json``` file, that can be used to generate images and tables using python script
 
 ---
 
@@ -15,4 +15,5 @@ Effiecny comparison comparison for 3 bubble style sorting algortihms in Java
 
 ---
 
-```python3 python/plot_results.py``` — generate graph images
+```python3 python/plot_results.py``` — generate images and tables
+
